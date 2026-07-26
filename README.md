@@ -7,7 +7,7 @@ This repository contains the development of the official Pro-Fix Gas Services we
 - [ ] Landing Page Template
 - [ ] Pro-Fix Gas Service Page 1
 - [ ] Pro-Fix Gas Service Page 2
-- [ ] Pro-Fix Gas Official Site
+- [*] Pro-Fix Gas Official Site
 
 ## Technologies
 
