@@ -1,1 +1,10 @@
-
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+├── README.md
+├── robots.txt
+├── sitemap.xml
+├── site.webmanifest
+├── favicon.ico
+└── 404.html
