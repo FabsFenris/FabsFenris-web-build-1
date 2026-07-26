@@ -1,8 +1,3 @@
-/* ===========================================
-   PRO-FIX GAS SERVICES
-   Official Website JavaScript
-=========================================== */
-
 document.addEventListener("DOMContentLoaded", () => {
 
     /* ==============================
